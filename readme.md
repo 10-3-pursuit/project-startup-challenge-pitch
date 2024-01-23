@@ -23,13 +23,15 @@ Based on the vote, you will build out both a presentation and an application.
 
 \*\*\* Note: Based on feasibility and uniqueness the instructors may choose against the vote.
 
-## Phase 1: Problem Identification & Research
+## You should follow the process below, as before, to arrive at the two problems you are pitching to solve.
+
+### Phase 1: Problem Identification & Research
 
 **Brainstorming Session:** Each squad brainstorms problems they encounter in daily life or areas where they think technology can make a difference. Encourage them to think broadly - education, health, environment, entertainment, etc.
 
 **Market Research:** Squads use the internet to research if their identified problem already has existing solutions. They should note what current solutions lack and how their idea can fill that gap.
 
-## Phase 2: Concept Development
+### Phase 2: Concept Development
 
 **App Conceptualization:** Squads define their app idea, focusing on:
 
@@ -37,7 +39,7 @@ Based on the vote, you will build out both a presentation and an application.
 - How it stands out from existing solutions.
 - Target audience.
 
-## Phase 3: Pitch Preparation
+### Phase 3: Pitch Preparation
 
 **Pitch Development:** Each squad prepares a 5-minute pitch presentation.
 
@@ -58,7 +60,7 @@ The spoken presentation should include:
 
 **Rehearsal:** Quick run-through of their presentation to ensure it's within the time limit.
 
-## Phase 4: Final Phase - Pitches
+### Phase 4: Final Phase - Pitches
 
 Each squad has 5 minutes to present their startup idea to the class
 
