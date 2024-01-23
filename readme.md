@@ -47,8 +47,7 @@ The slide should answer
 - What problem does it solve
 - Who is the app for
 
-You can use this Slide (or create your own) to present your pitch.
-[Pitch Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200)
+[You can make a copy and use this Slide (or create your own) to present your pitch.](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200)
 
 The spoken presentation should include:
 
