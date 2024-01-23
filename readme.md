@@ -1,21 +1,35 @@
-# Startup Challenge
+# Project Startup Challenge Pitch
 
 <img src="pitch.png" width="500" height="350">
 
-Have you ever watched _Shark Tank_ or **The Pitch**?
-Well not only will you create the startup, but now you will tell us what the website for that startup would be.
+### Part One: The Pitch
 
-**Objective:** Each squad will conceptualize a web app startup idea, focusing on a unique problem-solving approach. They will not build the app but will prepare a comprehensive presentation of their idea.
+Your team will conceptualize two web app startup ideas and application, focusing on a unique problem-solving approach.
 
-**Duration:** 3 hours
+You can use this Slide (or create your own) to present your pitch.
+[Pitch Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200)
 
-## Phase 1: Problem Identification & Research (45 minutes)
+Each idea will answer three questions:
 
-**Brainstorming Session (15 minutes):** Each squad brainstorms problems they encounter in daily life or areas where they think technology can make a difference. Encourage them to think broadly - education, health, environment, entertainment, etc.
+1. What does the app do?
 
-**Market Research (30 minutes):** Squads use the internet to research if their identified problem already has existing solutions. They should note what current solutions lack and how their idea can fill that gap.
+1. What problem does the app solve
 
-## Phase 2: Concept Development (1 hour)
+1. Who is this app for?
+
+You will pitch these ideas to the full cohort and instructor. Afterwards, there will be a vote.
+
+Based on the vote, you will build out both a presentation and an application.
+
+\*\*\* Note: Based on feasibility and uniqueness the instructors may choose against the vote.
+
+## Phase 1: Problem Identification & Research
+
+**Brainstorming Session:** Each squad brainstorms problems they encounter in daily life or areas where they think technology can make a difference. Encourage them to think broadly - education, health, environment, entertainment, etc.
+
+**Market Research:** Squads use the internet to research if their identified problem already has existing solutions. They should note what current solutions lack and how their idea can fill that gap.
+
+## Phase 2: Concept Development
 
 **App Conceptualization:** Squads define their app idea, focusing on:
 
@@ -23,35 +37,29 @@ Well not only will you create the startup, but now you will tell us what the web
 - How it stands out from existing solutions.
 - Target audience.
 
-**User Personas Creation:** Develop 2-3 user personas that represent their app's target audience. Each persona should include demographics, interests, and why the app is beneficial for them.
+## Phase 3: Pitch Preparation
 
-## Phase 3: Planning & Design (45 minutes)
+**Pitch Development:** Each squad prepares a 5-minute pitch presentation.
 
-**User Stories:** Write 5-7 user stories that describe how different personas would interact with the app. These should be specific scenarios.
+The slide should answer
 
-**Wireframe Creation:** Sketch basic wireframes for the app’s main interfaces. They can use tools like Balsamiq, or simple pen and paper. Focus on user flow and key features. (if you use paper, please take a snapshot and upload to a computer)
+- What does the app do
+- What problem does it solve
+- Who is the app for
 
-Here are some tools that you possibly could use:
+You can use this Slide (or create your own) to present your pitch.
+[Pitch Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200)
 
-- [UI/UX Resources](https://github.com/10-3-pursuit/10-3-resources/blob/main/user-experience.md)
-
-- [UX Tools](https://github.com/10-3-pursuit/10-3-resources/blob/main/ux-tools.md)
-
-- [Design Tools](https://github.com/10-3-pursuit/10-3-resources/tree/main/project-tools)
-
-## Phase 4: Presentation Preparation (30 minutes)
-
-**Pitch Development:** Each squad prepares a 5-minute pitch presentation. They should include:
+The spoken presentation should include:
 
 - Problem and solution.
 - Target audience and user personas.
 - Key features and user stories.
-- Wireframes of the app.
 - Why their app could be successful in the market.
 
 **Rehearsal:** Quick run-through of their presentation to ensure it's within the time limit.
 
-## Final Phase: Presentations
+## Phase 4: Final Phase - Pitches
 
 Each squad has 5 minutes to present their startup idea to the class
 
