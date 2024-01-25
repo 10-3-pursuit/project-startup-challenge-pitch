@@ -47,7 +47,7 @@ Feel free to physically build personas and/or user stories.
 
 **Pitch Development:** Each squad prepares a 8-minute pitch presentation.
 
-**The slide should answer these questions:**
+**_The slide should answer these questions:_**
 
 - What does the app do?
 - What problem does it solve?
@@ -55,7 +55,7 @@ Feel free to physically build personas and/or user stories.
 
 You can make a copy and use this Slide (or create your own) to present your pitch - [Pitch Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200)
 
-**The spoken presentation should include:**
+**_The spoken presentation should include:_**
 
 - the name of the product
 - the persona(s), i.e. the users, for whom you are solving this problem? e.g. "Jon is a student who can't afford to go to college. They need a way to find scholarship options for which they are elgible"
