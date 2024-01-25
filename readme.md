@@ -45,15 +45,15 @@ Based on the vote, you will build out both a slide presentation and an applicati
 
 **Pitch Development:** Each squad prepares a 8-minute pitch presentation.
 
-The slide should answer
+**The slide should answer these questions:**
 
-- What does the app do
-- What problem does it solve
-- Who is the app for
+- What does the app do?
+- What problem does it solve?
+- Who is the app for?
 
 You can make a copy and use this Slide (or create your own) to present your pitch - [Pitch Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200)
 
-The spoken presentation should include:
+**The spoken presentation should include:**
 
 - Problem and solution.
 - Target audience and user personas.
