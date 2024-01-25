@@ -55,23 +55,16 @@ You can make a copy and use this Slide (or create your own) to present your pitc
 
 **The spoken presentation should include:**
 
-- Problem and solution.
-- Target audience and user personas.
-- Key features and user stories.
-- Why their app could be successful in the market.
+- the name of the product
+- the persona(s), i.e. the users, for whom you are solving this problem? e.g. "Jon is a student who can't afford to go to college. They need a way to find scholarship options for which they are elgible"
+- what problem the product solves
+- how you differentiate yourselves from other products
+- user stories, what will the user be able to do, specifically with the app.
 
 **Rehearsal:** Quick run-through of their presentation to ensure it's within the time limit.
 
 ### Phase 4: Final Phase - Pitches
 
 Each squad has 8 minutes to present both of their startup ideas to the class. Choose a representative for your team to present the ideas. Or one representative for each idea. This is not a group presentation where everyone should speak.
-
-Tell us:
-
-- the name of the product
-- the persona(s), i.e. the users, for whom you are solving this problem? e.g. "Jon is a student who can't afford to go to college. They need a way to find scholarship options for which they are elgible"
-- what problem the product solves
-- how you differentiate yourselves from other products
-- user stories, what will the user be able to do, specifically with the app.
 
 Good Luck!
