@@ -69,6 +69,6 @@ Each squad has 8 minutes to present both of their startup ideas to the class. Ch
 
 **Rehearsal:** Quick run-through of the presentation to ensure it's efficient and within the 8 minute time limit.
 
-Remember your cohort mates will be voting!
+_Remember your cohort mates will be voting!_
 
 Good Luck!
