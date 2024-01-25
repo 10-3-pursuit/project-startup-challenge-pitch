@@ -29,7 +29,7 @@ Based on the vote, you will build out both a slide presentation and an applicati
 
 ### Phase 1: Problem Identification & Research
 
-**Brainstorming Session:** Each squad brainstorms problems they encounter in daily life or areas where they think technology can make a difference. Encourage them to think broadly - education, health, environment, entertainment, etc.
+**Brainstorming Session:** Each squad brainstorms problems they encounter in daily life or areas where they think technology can make a difference. Encourage them to think broadly - education, sustainability, ai, health, environment, entertainment, etc.
 
 **Market Research:** Squads use the internet to research if their identified problem already has existing solutions. They should note what current solutions lack and how their idea can fill that gap.
 
