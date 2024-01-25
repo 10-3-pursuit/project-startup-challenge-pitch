@@ -67,6 +67,8 @@ You can make a copy and use this Slide (or create your own) to present your pitc
 
 Each squad has 8 minutes to present both of their startup ideas to the class. Choose a representative for your team to present the ideas. Or one representative for each idea. This is not a group presentation where everyone should speak.
 
-**Rehearsal:** Quick run-through of their presentation to ensure it's within the time limit.
+**Rehearsal:** Quick run-through of the presentation to ensure it's efficient and within the 8 minute time limit.
+
+Remember your cohort mates will be voting!
 
 Good Luck!
