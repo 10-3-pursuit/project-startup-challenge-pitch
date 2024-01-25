@@ -25,7 +25,7 @@ Based on the vote, you will build out both a slide presentation and an applicati
 
 \*\*\* Note: Based on feasibility and uniqueness the instructors may choose against the vote.
 
-## You should follow the process below to discover and choose two ideas you will be pitching .
+### You should follow the process below to discover and choose two ideas you will be pitching .
 
 ### Phase 1: Problem Identification & Research
 
