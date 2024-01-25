@@ -6,7 +6,7 @@ Remember the Startup Challenge that we had some time ago? Well let's crank it up
 
 ### Overview
 
-Your team will conceptualize two web app startup ideas and applications, focusing on a unique problem.
+Your team will conceptualize two startup ideas and web applications, each, focusing on a unique problem.
 
 You can use [this Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200) (or create your own) to present your pitch.
 [Pitch Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200)
