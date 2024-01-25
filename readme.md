@@ -2,7 +2,7 @@
 
 <img src="pitch.png" width="500" height="350">
 
-Remember the Startup Challenge that we had some time ago? Well let's take it a step further.
+Remember the Startup Challenge that we had some time ago? Well let's crank it up!
 
 ### Overview
 
