@@ -4,7 +4,7 @@
 
 Remember the Startup Challenge that we had some time ago? Well let's take it a step further.
 
-### Getting Started
+### Overview
 
 Your team will conceptualize two web app startup ideas and applications, focusing on a unique problem.
 
