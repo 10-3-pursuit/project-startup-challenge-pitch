@@ -43,7 +43,7 @@ Based on the vote, you will build out both a slide presentation and an applicati
 
 ### Phase 3: Pitch Preparation
 
-**Pitch Development:** Each squad prepares a 5-minute pitch presentation.
+**Pitch Development:** Each squad prepares a 8-minute pitch presentation.
 
 The slide should answer
 
@@ -64,7 +64,7 @@ The spoken presentation should include:
 
 ### Phase 4: Final Phase - Pitches
 
-Each squad has 8 minutes to present their startup idea to the class. Choose a representative for your team to present the ideas. Or one representative for each idea. This is not a group presentation where everyone should speak.
+Each squad has 8 minutes to present both of their startup ideas to the class. Choose a representative for your team to present the ideas. Or one representative for each idea. This is not a group presentation where everyone should speak.
 
 Tell us:
 
