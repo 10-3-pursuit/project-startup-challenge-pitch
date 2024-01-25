@@ -63,10 +63,10 @@ You can make a copy and use this Slide (or create your own) to present your pitc
 - how you differentiate yourselves from other products
 - user stories, what will the user be able to do, specifically with the app.
 
-**Rehearsal:** Quick run-through of their presentation to ensure it's within the time limit.
-
 ### Phase 4: Final Phase - Pitches
 
 Each squad has 8 minutes to present both of their startup ideas to the class. Choose a representative for your team to present the ideas. Or one representative for each idea. This is not a group presentation where everyone should speak.
+
+**Rehearsal:** Quick run-through of their presentation to ensure it's within the time limit.
 
 Good Luck!
