@@ -1,8 +1,10 @@
-# Project Startup Challenge Pitch
+# Project Startup Challenge Part One - The Pitch
 
 <img src="pitch.png" width="500" height="350">
 
-### Part One: The Pitch
+Remember the Startup Challenge that we had some time ago? Well let's take it a step further.
+
+### Getting Started
 
 Your team will conceptualize two web app startup ideas and applications, focusing on a unique problem.
 
@@ -23,7 +25,7 @@ Based on the vote, you will build out both a slide presentation and an applicati
 
 \*\*\* Note: Based on feasibility and uniqueness the instructors may choose against the vote.
 
-## You should follow the process below, as before, to arrive at the two problems you are pitching to solve.
+## You should follow the process below to discover and choose two ideas you will be pitching .
 
 ### Phase 1: Problem Identification & Research
 
@@ -62,12 +64,12 @@ The spoken presentation should include:
 
 ### Phase 4: Final Phase - Pitches
 
-Each squad has 5 minutes to present their startup idea to the class
+Each squad has 8 minutes to present their startup idea to the class. Choose a representative for your team to present the ideas. Or one representative for each idea. This is not a group presentation where everyone should speak.
 
 Tell us:
 
 - the name of the product
-- the persona(s), i.e. who are you solving this problem for? e.g. "Jon is a student who can't afford to go to college. They need a way to find scholarship options for which they are elgible"
+- the persona(s), i.e. the users, for whom you are solving this problem? e.g. "Jon is a student who can't afford to go to college. They need a way to find scholarship options for which they are elgible"
 - what problem the product solves
 - how you differentiate yourselves from other products
 - user stories, what will the user be able to do, specifically with the app.
