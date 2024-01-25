@@ -6,10 +6,10 @@
 
 Your team will conceptualize two web app startup ideas and applications, focusing on a unique problem.
 
-You can use this Slide (or create your own) to present your pitch.
+You can use [this Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200) (or create your own) to present your pitch.
 [Pitch Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200)
 
-Each idea will answer three questions:
+Each pitch idea will answer three questions:
 
 1. What does the app do?
 
@@ -17,9 +17,9 @@ Each idea will answer three questions:
 
 1. Who is this app for?
 
-You will pitch these ideas to the full cohort and instructor. Afterwards, there will be a vote.
+You will pitch these ideas to the full cohort and instructors. Afterwards, there will be a vote.
 
-Based on the vote, you will build out both a presentation and an application.
+Based on the vote, you will build out both a slide presentation and an application.
 
 \*\*\* Note: Based on feasibility and uniqueness the instructors may choose against the vote.
 
