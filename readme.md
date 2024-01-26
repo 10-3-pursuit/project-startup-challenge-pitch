@@ -45,7 +45,7 @@ Feel free to physically build personas and/or user stories.
 
 ### Phase 3: Pitch Preparation
 
-**Pitch Development:** Each squad prepares a 8-minute pitch presentation.
+**Pitch Development:** Each squad prepares a ~6 minute pitch presentation.
 
 **_The slide should answer these questions:_**
 
@@ -65,9 +65,9 @@ You can make a copy and use this Slide (or create your own) to present your pitc
 
 ### Phase 4: Final Phase - Pitches
 
-**Pitch:** Each squad has 8 minutes to present both of their startup ideas to the class. Choose a representative for your team to present the ideas. Or one representative for each idea. This is not a group presentation where everyone should speak.
+**Pitch:** Each squad has 6 minutes to present both of their startup ideas to the class. Choose a representative for your team to present the ideas. Or one representative for each idea. This is not a group presentation where everyone should speak.
 
-**Rehearsal:** Quick run-through of the presentation to ensure it's efficient and within the 8 minute time limit.
+**Rehearsal:** Quick run-through of the presentation to ensure it's efficient and within the 6 minute time limit.
 
 _Remember your cohort mates will be voting!_
 
