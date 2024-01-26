@@ -10,7 +10,7 @@ Your team will conceptualize two startup ideas and web applications, each, focus
 
 You can **make a copy** of [this Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200) (or create your own slide) to present your pitch.
 
-[Pitch Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200 {target="\_blank"}) - remember to make a copy.
+[Pitch Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200) - remember to make a copy.
 
 **Each pitch idea will answer three questions:**
 
