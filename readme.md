@@ -8,7 +8,7 @@
 
 Your team will conceptualize two startup ideas and web applications, each, focusing on a unique problem.
 
-You can use [this Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200) (or create your own) to present your pitch.
+You can **make a copy** of [this Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200) (or create your own slide) to present your pitch.
 
 [Pitch Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200)
 
