@@ -41,8 +41,6 @@ Based on the vote, you will build out both a slide presentation and an applicati
 - How it stands out from existing solutions.
 - Target audience.
 
-Feel free to physically build personas and/or user stories.
-
 ### Phase 3: Pitch Preparation
 
 **Pitch Development:** Each squad prepares a ~6 minute pitch presentation.
